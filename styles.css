@@ -2,7 +2,7 @@ body{
   padding: 270px;
 }
 .title {
-	color: #a6e8f5;
+	color: #0c5e6e;
 }
 .button {
   transition-duration: 0.4s;
@@ -13,7 +13,7 @@ body{
   border-radius: 20px;
   background-color: #4eff00;
   border: none;
-  color: #a6e8f5;
+  color: #0c5e6e;
   text-align: center;
   font-size: 28px;
   padding: 20px;
