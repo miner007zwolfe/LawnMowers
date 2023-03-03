@@ -4,6 +4,9 @@ body{
 .title {
 	color: #000000;
 }
+.background {
+	color: #FFFFFF;
+}
 .button {
   transition-duration: 0.4s;
 }
