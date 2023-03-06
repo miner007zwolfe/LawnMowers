@@ -1,5 +1,6 @@
 body{
   padding: 270px;
+
 }
 .title {
 	color: #000000;
@@ -9,4 +10,11 @@ body{
 
 body {
 background-color: #035afc;
+}
+a
+{
+	position: relative;
+	display: inline-block;
+	padding 12px 36px;
+	text-decoration: none;
 }
