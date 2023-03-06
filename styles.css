@@ -11,10 +11,10 @@ body{
 body {
 background-color: #035afc;
 }
-a
-{
+a{
 	position: relative;
 	display: inline-block;
 	padding 12px 36px;
 	text-decoration: none;
+	color: #FFF;
 }
