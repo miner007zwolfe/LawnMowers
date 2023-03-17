@@ -57,3 +57,10 @@ span.ripple {
     opacity: 0;
   }
 }
+
+section {
+   display: grid;
+   place-items: center;
+   align-content: center;
+   min-height: 100vh;
+}
