@@ -1,2 +1,2 @@
 # LawnMowers
-We made this fore a school assignment
+We made this for a school assignment
