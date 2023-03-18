@@ -67,14 +67,8 @@ section {
 
 .hidden {
   opacity: 0;
-  transition: all 5s;
+  transition: 1s;
 
 .show {
    opacity: 1;
-}
-
-@media(prefers-reduced-motion) {
-	.hidden {
-  		transition: none;
-	}
 }
