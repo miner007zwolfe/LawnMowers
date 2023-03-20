@@ -69,7 +69,7 @@ section {
 .show {
    opacity: 0;
 }
-html {
+body {
   height: 3000px;
   background: linear-gradient(55deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 85%);
 }
