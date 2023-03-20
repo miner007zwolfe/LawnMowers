@@ -6,6 +6,10 @@ body{
 	color: #000000;
 }
 
+body {
+background-color: #035afc;
+}
+
 
 
 a{
@@ -69,6 +73,4 @@ section {
 .show {
    opacity: 0;
 }
-body {
-background-color: #035afc;
-}
+
